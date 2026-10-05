@@ -35,7 +35,7 @@ I'm a **Junior Full-Stack Developer** and a Computer Science student at **Consta
 
 ### [Ivesome](https://github.com/Chorusmaster/Ivesome)
 
-Сollaborative web platform for sharing and developing ideas for IT startups. My current bachelor's thesis project.
+(In development) Сollaborative web platform for sharing and developing ideas for IT startups. My current bachelor's thesis project.
 
 **Tech stack:** React · TypeScript · Express.js · PostgreSQL · Prisma
 
@@ -45,12 +45,12 @@ Business incubator platform developed as a final team project together with my u
 
 **Tech stack:** Vue.js · TypeScript · Laravel · MySQL · Docker
 
+### [AMG](https://github.com/Chorusmaster/amg)
+
+2D sandbox web game prototype built using the Canvas API.
+
 ### [Notes](https://github.com/Chorusmaster/notes-app)
 
 Simple single-page application for creating and managing notes.
 
 **Tech stack:** React · TypeScript · Express.js · MongoDB · Mongoose
-
-### [AMG](https://github.com/Chorusmaster/amg)
-
-2D sandbox web game prototype built using the Canvas API.
