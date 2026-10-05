@@ -54,7 +54,3 @@ Simple single-page application for creating and managing notes.
 ### [AMG](https://github.com/Chorusmaster/amg)
 
 2D sandbox web game prototype built using the Canvas API.
-
-### [Webmine](https://github.com/Chorusmaster/webmine)
-
-3D sandbox web game prototype built using Three.js.
